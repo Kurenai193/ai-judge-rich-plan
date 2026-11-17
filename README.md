@@ -19,7 +19,7 @@ day 30.
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-Writes `out/entry.txt` (978 characters, UTF-8). Python 3.13, standard
+Writes `out/entry.txt` (974 characters, UTF-8). Python 3.13, standard
 library only, no network, deterministic: two runs write identical bytes.
 
 ---
