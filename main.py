@@ -15,11 +15,11 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 PLAN = "\n".join(
     [
-        "Sell one service: turn a new Shopify seller's messy supplier CSV into an upload-ready catalog (clean columns, deduped SKUs, rewritten titles) in 24 hours for $39, paid in advance by Stripe link.",
-        "Day 1: put up a one-page site with offer and payment link. Spend $15 on domain and tools; keep $85 in reserve. No ads until 10 paid jobs.",
-        "Days 2-7: contact 30 sellers a day posting CSV/import problems on r/shopify, the Shopify Community or X. Send each a free sample: their first 20 rows cleaned. Edge: buyers see finished work before paying; code delivers in hours, 24/7.",
-        "Days 8-30: deliver every job the same day, upsell a $99 full clean and a $29/month update plan, ask every buyer for a review. Log sales daily; drop any channel with no sale after 100 contacts and double the best one. Refund any job not delivered in 24 hours.",
-        "Target: 15 x $39 = $585 likely, not best case. Under 2 paid jobs by day 7, switch to Etsy sellers. Stop day 28, deliver all, hold only cash day 30.",
+        "Sell one service: turn a Shopify seller's CSV into an upload-ready catalog (cleaned, deduped, titles rewritten) in 24 hours for $39, paid upfront by Stripe link.",
+        "Day 1: launch a one-page site: offer, payment link, privacy policy. Use only files a customer sends with permission, never share them, delete copies 7 days after delivery. Budget: $15 tools, $85 reserve.",
+        "Days 2-7: where rules allow promotion (r/shopify, Shopify Community, X), reply to CSV/import problem posts, offer a free sample: 20 rows cleaned from data the seller shares. No mass posts or cold DMs; follow up only on replies. Edge: finished work before payment.",
+        "Days 8-30: deliver same day, upsell a $99 full clean and $29/mo updates, ask for reviews. Log sales; drop channels with no sale after 100 contacts, double the best.",
+        "Sales goal, not profit or a promise: 15 x $39 = $585 gross if outreach converts, minus Stripe fees and tool costs. Under 2 paid jobs by day 7, switch to Etsy. Stop day 28; hold only cash day 30.",
     ]
 )
 
